@@ -1,7 +1,7 @@
 public class MathOperations {
 	public static void main( String[] args ) {
-		int a, b, c, d, e, f, g;
-		double x, y, z;
+		int a, b, c, d, e, f, g, h, i;
+		double w, x, y, z;
 		String one, two, both;
 		
 		a = 10;
@@ -31,5 +31,10 @@ public class MathOperations {
 		both = one + two;
 		
 		System.out.println ( both );
+		
+		h = a*2/4+5-3;
+		System.out.println ( "\na*2/4+5-3 is " + h );
+		i = a%4;
+		System.out.println ( "a%4 is " + i );
 	}
 }

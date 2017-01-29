@@ -17,7 +17,7 @@ public class EscapeSequencesComments {
 			// it takes 2 to make 1
 		System.out.print( "I hope you understand \"escape sequences\" now.\n" );
 			// and comments. :)
-		System.out.println( "I tried to include a block in line 13 and it did not compile." );
+		    // I tried to include a block in line 13 and it did not compile.
 	}
 }
 	
