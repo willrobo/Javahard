@@ -15,6 +15,10 @@ public class PrintingChoices {
 		System.out.println( "India" );
 		
 		System.out.println();
-		System.out.println( "This is a test." );
+		System.out.println( "This" + " " + "is" + " " + 
+		"a" + " " + "test." );
+		System.out.println( "I" + " " + "am" + " " + 
+		"learning" + " " + "Java" + " " + "the" + " "
+		+ "Hard" + " " + "Way!" );
 	}
 }
